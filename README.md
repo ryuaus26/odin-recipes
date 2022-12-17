@@ -1,1 +1,1 @@
-# odin-recipes
+Project practice for web development
